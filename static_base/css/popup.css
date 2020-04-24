@@ -1,0 +1,35 @@
+.close{
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.signupu{
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+    background: #3a3c46;
+    display: none;
+    
+ 
+    /* display: none; */
+  
+}
+/* #id_username{
+    width: 300px;
+} */
+/* #hint_id_username{
+    display: none;
+}
+
+#hint_id_password2{
+    display: none;
+}
+.help-block{
+    display: none;
+}
+.help_text{
+    display: none;
+} */
